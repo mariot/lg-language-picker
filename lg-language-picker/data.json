@@ -1,0 +1,62 @@
+[
+    {
+				"code":"ar",
+        "name":"Arabic",
+        "nativeName":"العربية"
+    },
+    {
+				"code":"zh",
+        "name":"Chinese",
+        "nativeName":"中文 (Zhōngwén), 汉语, 漢語"
+    },
+    {
+				"code":"da",
+        "name":"Danish",
+        "nativeName":"Dansk"
+    },
+    {
+				"code":"nl",
+        "name":"Dutch",
+        "nativeName":"Nederlands, Vlaams"
+    },
+    {
+				"code":"en",
+        "name":"English",
+        "nativeName":"English"
+    },
+    {
+				"code":"fr",
+        "name":"French",
+        "nativeName":"Français"
+    },
+    {
+				"code":"de",
+        "name":"German",
+        "nativeName":"Deutsch"
+    },
+    {
+				"code":"it",
+        "name":"Italian",
+        "nativeName":"Italiano"
+    },
+    {
+				"code":"ja",
+        "name":"Japanese",
+        "nativeName":"日本語 (にほんご／にっぽんご)"
+    },
+    {
+				"code":"mg",
+        "name":"Malagasy",
+        "nativeName":"Malagasy"
+    },
+    {
+				"code":"ru",
+        "name":"Russian",
+        "nativeName":"русский язык"
+    },
+    {
+				"code":"es",
+        "name":"Spanish; Castilian",
+        "nativeName":"español, castellano"
+    }
+]

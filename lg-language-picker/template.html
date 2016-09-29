@@ -1,0 +1,15 @@
+<h3>Choisissez votre language</h3>
+
+<button type="button" ng-focus="popupLanguageList.show($event)">
+  {{chooseButtonText}}
+</button>
+
+<popup api="popupLanguageList">
+  <div ng-repeat="eachLanguage in allLanguageData | filter: {show: true}">
+    <button type="button"
+     ng-click="popupLanguageList.hide($event);
+     updateModel(eachLanguage.code,eachLanguage.name)">
+     {{eachLanguage.name}} ({{eachLanguage.nativeName}})
+   </button>
+  </div>
+</popup>
