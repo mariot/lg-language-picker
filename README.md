@@ -1,7 +1,7 @@
 # lg-language-picker
 
 ##language-picker
-Uses style-sheet-factory and popup-directive
+Uses [style-sheet-factory](https://github.com/bklik/style-sheet-factory) and [popup-directive](https://github.com/bklik/popup-directive)
 
 ###Use
 in header
